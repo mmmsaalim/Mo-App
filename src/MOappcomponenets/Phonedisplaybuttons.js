@@ -38,6 +38,7 @@ const buttonTexts = {
   6: (
     <>
       <h1 className="fs-5 btn-text m-0">MO Stories</h1>
+      <h1>hosting</h1>
       <span> Get seen with MO Stories,<br /> boost sales, and reach<br /> more buyers!</span>
     </>
   ),
